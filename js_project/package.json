@@ -1,0 +1,11 @@
+{
+    "name": "Control Smart Light Bulb",
+    "version": "1.0.0",
+    "description": "Sample Node.js Project",
+    "main": "test_script.js",
+    "author": "Nick Goralka",
+    "license": "MIT",
+    "dependencies": {
+        "tuyapi": "github:codetheweb/tuyapi"
+    }
+}
