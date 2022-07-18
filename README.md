@@ -6,7 +6,7 @@ Manufacture Number: OM60/RGBW/CA/AG
 FCC ID: SYW-A19RGBWAGT2
 
 MAC Address: 70:89:76:fc:40:c7
-Reservered IP Address : 10.0.0.136
+Reservered IP Address : xx.xx.xx.xx (LAN)
 
 Original Design Manufacture of the IOT Device: Tuya Smart
 
